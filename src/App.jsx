@@ -15,7 +15,7 @@ function App() {
   }
   return (
     <>
-      <h1 className="text-3xl">App</h1>
+      <h1 className="text-3xl">Deploying the App</h1>
       <h1 className="text-3xl">Data got Fetched Succesfully</h1>
       <p>{JSON.stringify(totalData)}</p>
     </>
